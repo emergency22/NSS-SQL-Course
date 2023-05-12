@@ -1,0 +1,3 @@
+SELECT *
+FROM sales s
+WHERE s.purchase_date BETWEEN '2018-05-07' AND '2023-05-07'
